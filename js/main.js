@@ -3,6 +3,7 @@ document.getElementById('output').style.visibility = 'hidden';
 
 // get weight input
 document.getElementById('lbsInput').addEventListener('input', function(e){
+  // toggle visibility after input received
   document.getElementById("output").style.visibility = "visible";
   let lbs = e.target.value;
   // output grams
