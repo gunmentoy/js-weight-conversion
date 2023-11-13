@@ -1,21 +1,29 @@
-      body {
-        margin-top: 70px;
-        background: #333;
-      }
+body {
+  margin-top: 70px;
+  background: #333;
+}
 
-      .card {
-        color: #fff;
-        margin: 10px 0;
-      }
+.main-header {
+  color: #fff;
+}
 
-      .card-1 {
-        background: blue;
-      }
+.card {
+  color: #fff;
+  margin: 10px 0;
+}
 
-      .card-2 {
-        background: green;
-      }
+.card-1 {
+  background: blue;
+}
 
-      .card-3 {
-        background: red;
-      }
+.card-2 {
+  background: green;
+}
+
+.card-3 {
+  background: red;
+}
+
+.card-text {
+  margin: 10px 10px;
+}
