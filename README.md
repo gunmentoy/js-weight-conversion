@@ -4,9 +4,9 @@
 This is a simple weight converter application built using HTML, CSS, and JavaScript. The application allows you to convert pounds to grams, kilograms, and ounces.
 
 ## Features
-**Weight Input**: The application provides an input field where you can enter a weight in pounds.
-**Weight Conversion**: The application converts the input weight in pounds to grams, kilograms, and ounces. It displays the converted weights in separate cards.
-**Dynamic Display**: The application initially hides the output cards. They become visible once you start typing in the input field.
+- **Weight Input**: The application provides an input field where you can enter a weight in pounds.
+- **Weight Conversion**: The application converts the input weight in pounds to grams, kilograms, and ounces. It displays the converted weights in separate cards.
+- **Dynamic Display**: The application initially hides the output cards. They become visible once you start typing in the input field.
 
 ## How It Works
 The application is implemented using HTML, CSS, and JavaScript. Here’s a brief overview of how it works:
